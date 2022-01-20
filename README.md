@@ -1,5 +1,5 @@
 [![Linkedin: Patrick](https://img.shields.io/badge/-Patrick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-carriello-alves-3468b0146/)](https://www.linkedin.com/in/patrick-carriello-alves-3468b0146/)
-[![Lattes: Patrick](https://img.shields.io/badge/-Lattes-yellow?style=flat-square&logo=pointy&logoColor=white&link=http://buscatextual.cnpq.br/buscatextual/visualizacv.do)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do)
+[![Lattes: Patrick](https://img.shields.io/badge/-Lattes-yellow?style=flat-square&logo=pointy&logoColor=white&link=http://buscatextual.cnpq.br/buscatextual/visualizacv.do)](http://lattes.cnpq.br/5751755173152446)
 [![GitHub Patrick](https://img.shields.io/github/followers/Patrick?label=follow&style=social)](https://github.com/PatrickCarriello)
 ![](https://komarev.com/ghpvc/?username=PatrickCarriello&color=blue&style=flat)
 
